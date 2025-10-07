@@ -1,0 +1,9 @@
+building_id,x_coord,y_coord,building_name
+1,1,1,Engineering Building
+2,4,1,Science Hall
+3,7,1,Computer Lab
+4,1,4,Library
+5,4,4,Student Union
+6,7,4,Cafeteria
+7,1,7,Dorm A
+8,7,7,Dorm B
